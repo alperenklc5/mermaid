@@ -64,6 +64,7 @@ To add an integration to this list, see the [Integrations - create page](./integ
 - [Tuleap](https://docs.tuleap.org/user-guide/writing-in-tuleap.html#graphs) ✅
 - [Mermaid Flow Visual Editor](https://www.mermaidflow.app) ✅
 - [Mermaid Studio by webtoolz](https://webtoolz.dev/mermaid) - Browser-based Mermaid editor with live preview, curated themes, and PNG/SVG export
+- [PikaEdit Mermaid Editor](https://pikaedit.com/en/developer/mermaid-editor) - Free browser-based Mermaid editor with live preview, templates, and SVG/PNG export
 - [Mermerd](https://github.com/KarnerTh/mermerd)
 - [Slab](https://slab.com) ✅
 - [Swimm](https://docs.swimm.io/features/diagrams-and-charts) ✅
